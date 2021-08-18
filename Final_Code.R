@@ -1,9 +1,3 @@
-#############################################################
-# STA483/583 FINAL PROJECT
-# Katherine Vorpe, Dai Dong
-#############################################################
-
-
 # Load libraries
 library(tidyverse)
 library(lubridate)
