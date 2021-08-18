@@ -3,6 +3,11 @@
 
 The main goal of this project is to analyze and forecast the 
 daily deaths due to COVID-19 in Florida and Texas.
+
+## Author
+- Katherine Vorpea
+- Dai Dong
+
 ## Software
 
 This project requires **R version 4.0.3** 
